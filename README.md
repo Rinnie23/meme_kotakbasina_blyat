@@ -1,2 +1,1 @@
-# meme_kotakbasina_blyat
-baza_toronto_privet kotakbas
+# чудо за 2 часа первых учений html
